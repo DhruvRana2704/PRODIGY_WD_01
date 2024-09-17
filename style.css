@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    color: #fff;
+    height: 10vh;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+
+}
+.home,.about{
+    color: white;
+}
+.home:hover,.about:hover{
+    background-color: black;
+    border-radius: 5px;
+    scale: 1.1;
+}
+.menu:hover{
+    color: white;
+    background-color: black;
+}
+.elements{
+    font-size: larger;
+    margin-left: 1vh;
+    gap: 3vh;
+    display: flex;
+}
+.menu{
+    border: none;
+    background-color: grey;
+    color: white;
+    font-size: large;
+    /* color: black; */
+}
+input{
+    padding:0.1rem ;
+    font-size: 2vh;
+    /* border-radius: 5px; */
+    border: 0;
+    padding-left: 0.2rem;
+    color: black;
+}
+.search{
+    gap: 0.5rem;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding-right: 0.5rem;
+    display: flex;
+    align-items:flex-end;
+}
+.search:hover{
+    cursor: pointer;
+}
+.content{
+    height: 100vh;
+    background-color: aqua;
+}
+.part{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    padding: 5vh;
+}
+.fa-magnifying-glass{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
