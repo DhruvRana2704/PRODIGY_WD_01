@@ -3,7 +3,7 @@ This project is a part of my internship at Prodigy InfoTech. It showcases a resp
 
 ## Features
 - **Responsive Design:** The navigation menu adjusts seamlessly to different screen sizes.
-- **Interactive Hover Effects:** The color of the navigation items changes on hover, providing visual feedback to users.
+- **Interactive Hover Effects:** The color of the navigation items changes on hover, providing visual feedback to users. Also, the text scales as a response
 - **Dynamic Scroll Effects:** The color of the navbar and the body changes as the user scrolls down the page, creating an engaging and modern look.
 
 ## Screenshots:
